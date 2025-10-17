@@ -13,8 +13,6 @@ A clean and responsive **Card UI/UX component** built using **React**, designed 
 
 ## 📸 Preview
 
-> Replace the link below with your actual screenshot/image
-
 ![Card UI Preview](https://raw.githubusercontent.com/theikramuddin/React-Card-UI-UX-Design/refs/heads/main/src/assets/img.png)
 
 ---
@@ -106,7 +104,7 @@ You can reuse the `<Card />` component like this:
 
 ## 📃 License
 
-Licensed under the **MIT License** — feel free to use and modify!
+Licensed under the **MIT License** - feel free to use and modify!
 
 ---
 
